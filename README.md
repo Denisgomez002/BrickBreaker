@@ -1,6 +1,6 @@
 # BrickBreaker2023
 
-Overview
+##Overview
 BrickBreakers2023 is a simple implementation of the classic brick-breaker game in Java. The game utilizes the Swing library to create a graphical user interface.
 
 How to Run
