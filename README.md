@@ -1,15 +1,15 @@
 # BrickBreaker2023
 
-##Overview
 BrickBreakers2023 is a simple implementation of the classic brick-breaker game in Java. The game utilizes the Swing library to create a graphical user interface.
 
-How to Run
+## How To Run
+
 To run the game, follow these steps:
 
 Compile the Java code.
 Execute the compiled program.
 
-Instructions
+## Instructions
 Use the left and right arrow keys to move the paddle.
 Prevent the ball from falling off the bottom of the screen.
 Break all the bricks to win the game.
@@ -24,14 +24,19 @@ Handles user input for paddle control.
 3. MapGenerator Class
 Generates and manages the game map, including brick layout.
 Provides methods for drawing and updating the map.
-How to Play
+
+
+##How to Play
 Use the left and right arrow keys to move the paddle.
 Prevent the ball from falling off the bottom of the screen.
 Break all the bricks to win the game.
-Features
+
+
+## Features
 Basic GUI using Java Swing.
 Simple game mechanics for ball and paddle interaction.
 Score tracking and game-over conditions.
 Dynamic generation and drawing of the game map.
-Contributors
+
+##Contributors
 Denis Gomez
