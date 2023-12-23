@@ -26,7 +26,7 @@ Generates and manages the game map, including brick layout.
 Provides methods for drawing and updating the map.
 
 
-##How to Play
+## How to Play
 Use the left and right arrow keys to move the paddle.
 Prevent the ball from falling off the bottom of the screen.
 Break all the bricks to win the game.
@@ -37,6 +37,3 @@ Basic GUI using Java Swing.
 Simple game mechanics for ball and paddle interaction.
 Score tracking and game-over conditions.
 Dynamic generation and drawing of the game map.
-
-##Contributors
-Denis Gomez
